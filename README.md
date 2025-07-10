@@ -20,7 +20,7 @@ This app is built with **React + TypeScript** to display a dynamic form with dro
 
 ### 1. Clone & Enter the Project
 
-git clone https://github.com/Arifyudi26/frontend-valentino-rossi.git
+git clone https://github.com/Arifyudi26/frontend-arif-yudi.git
 cd frontend-valentino-rossi
 
 ### 2. Install All Dependencies
